@@ -1,0 +1,2 @@
+# Front-vue
+API CRUD Node.js + PostgreSQL + Azure - Employee API Repositório responsável pela série de vídeos desenvolvendo uma única API que será usada em diferentes frameworks:  Project #1 - Angular Project #2 - Vue Project #3 - React Project #4 - Svelte A intenção é criar uma aplicação CRUD (API) que permite ser usada nesses 4 principais frameworks! Se desejarem entender o passo a passo no desenvolvimento dessa API, eu escrevi um artigo no dev.to AQUI.  🚀 Recursos Utilizados Visual Studio Code Node.js Postman PostgreSQL - PgAdmin
